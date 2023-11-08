@@ -1,0 +1,27 @@
+{
+  "_id": "c6162b8c-e899-4af7-a17e-45d3575222c0",
+  "data": {
+    "stamdata": {
+      "scrapedate": "2023-11-08",
+      "type": "Villa",
+      "adresse": {
+        "street": "Kr Poulsens Vej 26",
+        "zip": "7430",
+        "city": "Ikast"
+      },
+      "broker": {
+        "brokername": "EDC Ikast",
+        "brokerid": "e41ed743-f5a5-44ed-9d42-073e35132534"
+      },
+      "kvm": 169,
+      "Grund": 799,
+      "Rooms": 4,
+      "Build": 1964
+    },
+    "vardata": {
+      "pris": "1395000",
+      "Ejerud": 1941,
+      "Liggetid": 1
+    }
+  }
+}
